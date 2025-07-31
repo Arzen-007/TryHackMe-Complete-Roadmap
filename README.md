@@ -3,8 +3,6 @@
 
 # 🚀 TryHackMe Ultimate Roadmap - 900+ Free Cybersecurity Rooms 🛡️
 
-![TryHackMe Logo](https://tryhackme.com/img/logo/tryhackme_logo_full.png)
-
 ## 📜 Table of Contents
 - [Introduction](#-introduction)
 - [Categories](#-categories)
