@@ -1,3 +1,6 @@
+<img width="824" height="461" alt="image" src="https://github.com/user-attachments/assets/19b4df4e-a7b0-45f9-994f-c548f0d37e19" />
+
+
 # 🚀 TryHackMe Ultimate Roadmap - 900+ Free Cybersecurity Rooms 🛡️
 
 ![TryHackMe Logo](https://tryhackme.com/img/logo/tryhackme_logo_full.png)
